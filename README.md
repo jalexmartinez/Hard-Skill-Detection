@@ -26,7 +26,7 @@ English word list (words.csv) obtained from:
 
 https://github.com/dwyl/english-words
 
-Results contained in HardSkill2.csv. Some considerations:
+Results contained in "Hard_Skill_Detection.csv" and clean data in "Clean_Data.csv". Some considerations:
 
 - Accuracy of the model was of 92% when using a sample of 25 data points
 - Data set contained large number of hard skills, would have to try with a data set containing mostly soft skills
