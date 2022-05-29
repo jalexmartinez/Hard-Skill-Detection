@@ -22,9 +22,22 @@ Libraries used:
 - wordfreq 
 - random
 
-English word list obtained from:
+English word list (words.csv) obtained from:
 
 https://github.com/dwyl/english-words
+
+Results contained in HardSkill2.csv. Some considerations:
+
+- Accuracy of the model was of 92% when using a sample of 25 data points
+- Data set contained large number of hard skills, would have to try with a data set containing mostly soft skills
+- Hard skills not extracted from sentences 
+- Frequency of words library contained samples from many sources, including websites. Fiction based library could provide more reliable frequency values for tech words
+- Further increase hard skill word bank
+- Use NLTK tools to better analyze the language and adapt to never-before-seen cases
+
+
+
+
 
 
 
