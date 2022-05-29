@@ -6,7 +6,7 @@ Problem Statement:
 - Technical skills are defined as demonstrable and quantifiable skills. They can be tested to prove their capacity in each hard skill an individual possesses
 - Sample of 900 random examples of technical skills will be provided
 
-Possible approaches:
+Approaches:
 
 - Identify acronyms
 - Identify words that are not in dictionary
@@ -25,3 +25,7 @@ Libraries used:
 English word list obtained from:
 
 https://github.com/dwyl/english-words
+
+
+
+
